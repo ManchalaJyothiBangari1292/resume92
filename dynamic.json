@@ -1,0 +1,36 @@
+{
+  "career":{
+    "info":"i utiliged my skils and knoledge and also improve my skils"
+  },
+"education":[
+{
+"degree":"B.tech(IT)",
+"Institution":"Vignan Nirula",
+  "YOP":"2020",
+  "Percentage":"80"
+},
+{
+  "degree":"Intermediate",
+"Institution":"NRI Vidya junior college",
+  "YOP":"2016",
+  "Percentage":"82"
+
+},
+{
+  "degree":"SSC",
+  "Institution":"Sri Vivekanandha Vidya Nikethan High School",
+    "YOP":"2014",
+    "Percentage":"77"
+
+}
+],
+
+
+"Skills":[
+  {
+    "title":"platforms",
+    "Content":"windows,linux"
+  }
+]
+  
+}

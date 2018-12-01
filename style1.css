@@ -1,0 +1,101 @@
+body{
+  background:lightgreen;
+}
+.maindiv{
+  background:gray;
+  margin:3%;
+  border-radius: 5%;
+display:flex;
+}
+.leftdiv{
+  background:pink;
+
+  border-radius:5%;
+  box-shadow:3px 3px 3px 3px brown;
+  text-align: center;
+  height:100%;
+  position:relative;
+  width:100%;
+  margin: 0%;
+}
+.rightdiv{
+background:skyblue;
+margin:0%;
+border-radius:5px;
+box-shadow:3px 3px 3px 3px pink;
+padding: 2%;
+height:100%;
+width:100%;
+
+}
+img{
+  margin:3%;
+  height:40%;
+  width:80%;
+}
+@media only screen and (min-width:320px) and (max-width:600px) {
+  body{
+    background:yellow;
+  }
+  .maindiv{
+    background:aqua;
+    margin:0%;
+    border-radius: 3%;
+    display: inline-block;
+    width:100%;
+  }
+  .leftdiv{
+    background: pink;
+    margin: 2%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 6px 6px;
+    text-align: center;
+    width:100%;
+    margin-top: 3%;
+  }
+  .rightdiv{
+    background:skyblue;
+    margin:2%;
+    border-radius:5px;
+    box-shadow:3px 3px 3px 3px pink;
+    padding: 2%;
+    margin-top: 15%;
+  }
+  img{
+    margin: 2%;
+    height:50%;
+    width: 50%;
+}
+@media only screen and (min-width:601px) and (max-width:1024px)
+ {
+  body{
+    background:yellow;
+  }
+  .maindiv{
+    background:aqua;
+    margin:0%;
+    border-radius: 3%;
+    display: inline-block;
+    width:100%;
+  }
+  .leftdiv{
+    background: pink;
+    margin: 2%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 6px 6px;
+    text-align: center;
+    width:100%;
+    margin-top: 3%;
+  }
+  .rightdiv{
+    background:skyblue;
+    margin:2%;
+    border-radius:5px;
+    box-shadow:3px 3px 3px 3px pink;
+    padding: 2%;
+    margin-top: 15%;
+  }
+  img{
+    margin: 2%;
+    height:50%;
+    width: 50%;
